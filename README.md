@@ -1,16 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TERMINAL HEADER BAR                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ●  ●  ●    imanfatimadocx@github:~                   /README.md    ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->'
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        HERO SECTION                           -->
@@ -278,20 +268,13 @@ $ focus --list
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanfatimadocx&show_icons=true&bg_color=0a1a0a&title_color=1a7a3a&text_color=2d8a4e&icon_color=1a7a3a&border_color=1a7a3a&hide_border=false&count_private=true&rank_icon=github)
-
 </td>
 <td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanfatimadocx&layout=compact&bg_color=0a1a0a&title_color=1a7a3a&text_color=2d8a4e&border_color=1a7a3a&hide_border=false)
-
 </td>
 </tr>
 </table>
 
 <br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=imanfatimadocx&theme=dark&background=0a1a0a&ring=1a7a3a&fire=2d8a4e&currStreakLabel=1a7a3a&sideLabels=2d8a4e&dates=2d8a4e&border=1a7a3a&currStreakNum=ffffff&sideNums=ffffff)
 
 <br>
 
